@@ -11,6 +11,7 @@ namespace Demo2
 
         static void Main(string[] args)
         {
+            //creating a list
             List<Employee> empList = new List<Employee>();
             empList.Add(new Employee() { ID = 1, Name = "evans", Salary = 2000, Experience = 5 });
             empList.Add(new Employee() { ID = 2, Name = "Mary", Salary = 10000, Experience = 3 });
