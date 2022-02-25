@@ -5,11 +5,14 @@ namespace Demo3
     public delegate void SampleDeligate();
     class Program
     {
+
         static void Main(string[] args)
         {
+            //adding methods to a deligate
             SampleDeligate del = new SampleDeligate(SampleMethodOne);
             del += SampleMethodTwo;
             del += SampleMethodThree;
+            del += SampleMethodFour;
             del();
         }
         public static void SampleMethodOne()
@@ -23,6 +26,10 @@ namespace Demo3
         public static void SampleMethodThree()
         {
             Console.WriteLine("SampleMethodThree invoked");
+        }
+        public static void SampleMethodFour()
+        {
+            Console.WriteLine("SampleMethodFour invoked");
         }
 
     }
