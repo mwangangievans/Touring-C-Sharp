@@ -1,0 +1,14 @@
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\bin\Debug\netcoreapp3.1\deligateDemo2.exe
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\bin\Debug\netcoreapp3.1\deligateDemo2.deps.json
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\bin\Debug\netcoreapp3.1\deligateDemo2.runtimeconfig.json
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\bin\Debug\netcoreapp3.1\deligateDemo2.runtimeconfig.dev.json
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\bin\Debug\netcoreapp3.1\deligateDemo2.dll
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\bin\Debug\netcoreapp3.1\deligateDemo2.pdb
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\obj\Debug\netcoreapp3.1\deligateDemo2.csproj.AssemblyReference.cache
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\obj\Debug\netcoreapp3.1\deligateDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\obj\Debug\netcoreapp3.1\deligateDemo2.AssemblyInfoInputs.cache
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\obj\Debug\netcoreapp3.1\deligateDemo2.AssemblyInfo.cs
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\obj\Debug\netcoreapp3.1\deligateDemo2.csproj.CoreCompileInputs.cache
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\obj\Debug\netcoreapp3.1\deligateDemo2.dll
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\obj\Debug\netcoreapp3.1\deligateDemo2.pdb
+D:\Touring-C-Sharp\DelegatesClass\Delegates\deligateDemo2\deligateDemo2\obj\Debug\netcoreapp3.1\deligateDemo2.genruntimeconfig.cache
