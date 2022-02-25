@@ -1,0 +1,14 @@
+D:\Touring-C-Sharp\DELEGATES\Demo3\bin\Debug\netcoreapp3.1\Demo3.exe
+D:\Touring-C-Sharp\DELEGATES\Demo3\bin\Debug\netcoreapp3.1\Demo3.deps.json
+D:\Touring-C-Sharp\DELEGATES\Demo3\bin\Debug\netcoreapp3.1\Demo3.runtimeconfig.json
+D:\Touring-C-Sharp\DELEGATES\Demo3\bin\Debug\netcoreapp3.1\Demo3.runtimeconfig.dev.json
+D:\Touring-C-Sharp\DELEGATES\Demo3\bin\Debug\netcoreapp3.1\Demo3.dll
+D:\Touring-C-Sharp\DELEGATES\Demo3\bin\Debug\netcoreapp3.1\Demo3.pdb
+D:\Touring-C-Sharp\DELEGATES\Demo3\obj\Debug\netcoreapp3.1\Demo3.csproj.AssemblyReference.cache
+D:\Touring-C-Sharp\DELEGATES\Demo3\obj\Debug\netcoreapp3.1\Demo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Touring-C-Sharp\DELEGATES\Demo3\obj\Debug\netcoreapp3.1\Demo3.AssemblyInfoInputs.cache
+D:\Touring-C-Sharp\DELEGATES\Demo3\obj\Debug\netcoreapp3.1\Demo3.AssemblyInfo.cs
+D:\Touring-C-Sharp\DELEGATES\Demo3\obj\Debug\netcoreapp3.1\Demo3.csproj.CoreCompileInputs.cache
+D:\Touring-C-Sharp\DELEGATES\Demo3\obj\Debug\netcoreapp3.1\Demo3.dll
+D:\Touring-C-Sharp\DELEGATES\Demo3\obj\Debug\netcoreapp3.1\Demo3.pdb
+D:\Touring-C-Sharp\DELEGATES\Demo3\obj\Debug\netcoreapp3.1\Demo3.genruntimeconfig.cache
