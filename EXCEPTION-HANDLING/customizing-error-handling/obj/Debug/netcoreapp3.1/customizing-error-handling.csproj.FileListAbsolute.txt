@@ -1,0 +1,13 @@
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\bin\Debug\netcoreapp3.1\customizing-error-handling.exe
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\bin\Debug\netcoreapp3.1\customizing-error-handling.deps.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\bin\Debug\netcoreapp3.1\customizing-error-handling.runtimeconfig.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\bin\Debug\netcoreapp3.1\customizing-error-handling.runtimeconfig.dev.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\bin\Debug\netcoreapp3.1\customizing-error-handling.dll
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\bin\Debug\netcoreapp3.1\customizing-error-handling.pdb
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\obj\Debug\netcoreapp3.1\customizing-error-handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\obj\Debug\netcoreapp3.1\customizing-error-handling.AssemblyInfoInputs.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\obj\Debug\netcoreapp3.1\customizing-error-handling.AssemblyInfo.cs
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\obj\Debug\netcoreapp3.1\customizing-error-handling.csproj.CoreCompileInputs.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\obj\Debug\netcoreapp3.1\customizing-error-handling.dll
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\obj\Debug\netcoreapp3.1\customizing-error-handling.pdb
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\customizing-error-handling\obj\Debug\netcoreapp3.1\customizing-error-handling.genruntimeconfig.cache
