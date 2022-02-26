@@ -1,0 +1,13 @@
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\bin\Debug\netcoreapp3.1\Exception-Misuse.exe
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\bin\Debug\netcoreapp3.1\Exception-Misuse.deps.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\bin\Debug\netcoreapp3.1\Exception-Misuse.runtimeconfig.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\bin\Debug\netcoreapp3.1\Exception-Misuse.runtimeconfig.dev.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\bin\Debug\netcoreapp3.1\Exception-Misuse.dll
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\bin\Debug\netcoreapp3.1\Exception-Misuse.pdb
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\obj\Debug\netcoreapp3.1\Exception-Misuse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\obj\Debug\netcoreapp3.1\Exception-Misuse.AssemblyInfoInputs.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\obj\Debug\netcoreapp3.1\Exception-Misuse.AssemblyInfo.cs
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\obj\Debug\netcoreapp3.1\Exception-Misuse.csproj.CoreCompileInputs.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\obj\Debug\netcoreapp3.1\Exception-Misuse.dll
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\obj\Debug\netcoreapp3.1\Exception-Misuse.pdb
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Exception-Misuse\obj\Debug\netcoreapp3.1\Exception-Misuse.genruntimeconfig.cache

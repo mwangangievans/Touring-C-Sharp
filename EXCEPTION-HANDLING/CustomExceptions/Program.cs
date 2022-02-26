@@ -20,13 +20,13 @@ namespace CustomExceptions
         [Serializable]
         public class UserAlreadyLoggedInException : Exception
         {
-            public UserAlreadyLoggedInException(string message) : base()
+            public UserAlreadyLoggedInException(string message) : base(message)
             {
             }
             public UserAlreadyLoggedInException(string message ,Exception innerExcemption) : base(message ,innerExcemption)
             {
             }
-            public UserAlreadyLoggedInException(SerializationInfo info, StreamingContext context) : base()
+            public UserAlreadyLoggedInException(SerializationInfo info, StreamingContext context) : base(info , context)
             {
             }
         }
