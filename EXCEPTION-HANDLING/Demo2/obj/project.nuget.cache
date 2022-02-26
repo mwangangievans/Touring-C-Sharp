@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i7UJ28LkbB0L0w7nnEf7LWTvYWkjdBAHorS5Zant7VKEpTuvj1Dfl5dJZa9Ab8+sjvPsYhaJK7nsCP95yVLPbg==",
+  "dgSpecHash": "YGd+99HgrDInWVy/tF7Y6w1JBdo5UkuVhtwUyqbBbH71H67uA4T4xRYQRQzJ3CVOGBHC79tjteulyPCsVYgfHw==",
   "success": true,
-  "projectFilePath": "D:\\Touring-C-Sharp\\EXCEPTION-HANDLING\\Demo2\\Demo2.csproj",
+  "projectFilePath": "D:\\Touring-C-Sharp\\EXCEPTION-HANDLING\\Demo2\\InnerException.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

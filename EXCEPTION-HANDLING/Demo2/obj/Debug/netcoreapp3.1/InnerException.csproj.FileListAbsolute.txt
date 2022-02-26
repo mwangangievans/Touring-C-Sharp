@@ -1,0 +1,13 @@
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\InnerException.exe
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\InnerException.deps.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\InnerException.runtimeconfig.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\InnerException.runtimeconfig.dev.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\InnerException.dll
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\InnerException.pdb
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\InnerException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\InnerException.AssemblyInfoInputs.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\InnerException.AssemblyInfo.cs
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\InnerException.csproj.CoreCompileInputs.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\InnerException.dll
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\InnerException.pdb
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\InnerException.genruntimeconfig.cache

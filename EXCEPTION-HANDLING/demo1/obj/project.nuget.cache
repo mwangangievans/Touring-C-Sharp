@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ApN0FHj3YpRMJibpJMd+HX6Vz5/1MAbhYh62T/efDR53ZonYd2MvytNFFy+4gFU2cJeQdz8ZhIetBatymgAXKA==",
+  "dgSpecHash": "HCHBr470sqPy+SLkfCIjs80uTEFjbZ0aantWEB8lYAIWqOxbDlia2ChgvbEZZ++8TI1eHg47ojVl7JfcdO52Yg==",
   "success": true,
-  "projectFilePath": "D:\\Touring-C-Sharp\\EXCEPTION-HANDLING\\demo1\\demo1.csproj",
+  "projectFilePath": "D:\\Touring-C-Sharp\\EXCEPTION-HANDLING\\demo1\\Exceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
