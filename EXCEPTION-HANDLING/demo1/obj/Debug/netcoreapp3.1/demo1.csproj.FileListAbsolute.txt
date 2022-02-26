@@ -11,3 +11,16 @@ D:\Touring-C-Sharp\EXCEPTION-HANDLING\EXCEPTION-HANDLING\demo1\obj\Debug\netcore
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.dll
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.pdb
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.genruntimeconfig.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\bin\Debug\netcoreapp3.1\demo1.exe
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\bin\Debug\netcoreapp3.1\demo1.deps.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\bin\Debug\netcoreapp3.1\demo1.runtimeconfig.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\bin\Debug\netcoreapp3.1\demo1.runtimeconfig.dev.json
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\bin\Debug\netcoreapp3.1\demo1.dll
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\bin\Debug\netcoreapp3.1\demo1.pdb
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.AssemblyInfoInputs.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.AssemblyInfo.cs
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.csproj.CoreCompileInputs.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.dll
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.pdb
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\demo1\obj\Debug\netcoreapp3.1\demo1.genruntimeconfig.cache

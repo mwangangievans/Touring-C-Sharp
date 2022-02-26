@@ -28,7 +28,6 @@ namespace demo1
                 {
                     stream.Close();
                 }
-
                 Console.WriteLine("\n Evans Stream was closed successfully");
             }
         }

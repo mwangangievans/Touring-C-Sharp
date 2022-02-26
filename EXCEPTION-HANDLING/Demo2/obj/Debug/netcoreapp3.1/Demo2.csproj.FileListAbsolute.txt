@@ -18,7 +18,6 @@ D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\Demo2.runtim
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\Demo2.runtimeconfig.dev.json
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\Demo2.dll
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\bin\Debug\netcoreapp3.1\Demo2.pdb
-D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\Demo2.csproj.AssemblyReference.cache
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\Demo2.GeneratedMSBuildEditorConfig.editorconfig
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\Demo2.AssemblyInfoInputs.cache
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\Demo2.AssemblyInfo.cs
@@ -26,3 +25,4 @@ D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\Demo2.csproj
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\Demo2.dll
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\Demo2.pdb
 D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\Demo2.genruntimeconfig.cache
+D:\Touring-C-Sharp\EXCEPTION-HANDLING\Demo2\obj\Debug\netcoreapp3.1\Demo2.csproj.AssemblyReference.cache
